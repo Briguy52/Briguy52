@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Briguy52
-- 👀 I’m interested in ... running
-- 🌱 I’m currently learning ... japanese
-- 💞️ I’m looking to collaborate on ... finding cats
-- 📫 How to reach me ... 
+- 🐈 I like finding cats...
+- 🎮 Messing around with my Steam Deck...
+- 🕺 And running marathons :)
+
 
 <!---
 Briguy52/Briguy52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
