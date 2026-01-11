@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Briguy52
-- 🐈 I like finding cats...
-- 🎮 Messing around with my Steam Deck...
-- 🕺 And running marathons :)
-
+hi
 
 <!---
 Briguy52/Briguy52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
